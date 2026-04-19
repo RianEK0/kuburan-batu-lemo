@@ -1,0 +1,5 @@
+review_text,rating,date,sentiment_label
+"Tempatnya sangat indah, budayanya kuat, dan pengunjung harus hormat.",5,2025-01-14,positive
+"The site is sacred and beautiful, but visitors need better behavior.",4,2025-01-15,positive
+"Harga ticket cukup mahal dan area terasa terlalu ramai.",2,2025-01-16,negative
+"Interesting cultural heritage, but the facilities were average.",3,2025-01-17,neutral

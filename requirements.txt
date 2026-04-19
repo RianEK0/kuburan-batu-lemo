@@ -1,0 +1,13 @@
+pandas
+numpy
+nltk
+Sastrawi
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+transformers
+torch
+accelerate
+streamlit
+requests

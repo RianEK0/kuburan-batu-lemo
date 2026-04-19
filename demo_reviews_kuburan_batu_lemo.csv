@@ -1,0 +1,50 @@
+review_text,rating,date,sentiment_label,source,language
+"Tempatnya sangat indah dan budaya Toraja terasa kuat. Pemandu juga ramah.",5,2026-01-05,positive,synthetic,id
+"Nilai budaya dan tradisi di sini luar biasa; saya jadi lebih menghargai sejarahnya.",5,2026-01-08,positive,synthetic,id
+"Lokasi unik, tapi area parkir sempit dan cukup ramai saat siang.",3,2026-01-10,neutral,synthetic,id
+"Harga ticket menurut saya mahal untuk fasilitas yang ada.",2,2026-01-12,negative,synthetic,id
+"Tempat sakral, pengunjung sebaiknya hormat dan sopan. Pengalaman saya sangat berkesan.",5,2026-01-15,positive,synthetic,id
+"Saya kecewa karena beberapa orang berperilaku tidak sopan saat berfoto.",2,2026-01-18,negative,synthetic,id
+"Kebersihan cukup baik dan jalur akses rapi, namun toiletnya kurang terawat.",3,2026-01-20,neutral,synthetic,id
+"Pemandangan indah, tapi terlalu ramai dan jadi kurang nyaman untuk menikmati suasana.",2,2026-01-22,negative,synthetic,id
+"Sangat rekomendasi untuk belajar budaya. Guide menjelaskan dengan baik.",5,2026-01-25,positive,synthetic,id
+"Fasilitas kurang, beberapa papan informasi buram dan sulit dibaca.",2,2026-01-28,negative,synthetic,id
+"Keren dan unik, suasananya tenang kalau datang pagi.",5,2026-02-01,positive,synthetic,id
+"Antrian ticket panjang, tapi petugas tetap sopan dan membantu.",4,2026-02-03,positive,synthetic,id
+"Harga ticket naik, terasa komersial sekali dibanding kunjungan sebelumnya.",2,2026-02-05,negative,synthetic,id
+"Budaya dan tradisi dijaga baik; saya suka penjelasan tentang ritual setempat.",5,2026-02-07,positive,synthetic,id
+"Area foto bagus, tapi beberapa pengunjung attitude-nya buruk dan mengganggu.",2,2026-02-09,negative,synthetic,id
+"Tempatnya cantik dan bersih. Warga lokal juga ramah.",5,2026-02-11,positive,synthetic,id
+"Saya tidak nyaman karena ramai dan suara bising dari rombongan besar.",2,2026-02-13,negative,synthetic,id
+"Overall menarik, tapi akses jalan menuju lokasi agak susah saat hujan.",3,2026-02-15,neutral,synthetic,id
+"Etika berkunjung perlu ditingkatkan: jangan naik ke area tertentu untuk foto.",3,2026-02-17,neutral,synthetic,id
+"Staf mengingatkan pengunjung untuk respect, itu bagus dan bikin suasana lebih tertib.",4,2026-02-19,positive,synthetic,en
+"The cultural value here is amazing and the views are beautiful.",5,2026-02-21,positive,synthetic,en
+"A sacred place; visitors should be respectful and behave properly.",5,2026-02-23,positive,synthetic,en
+"Ticket price feels expensive and the site was crowded.",2,2026-02-25,negative,synthetic,en
+"Interesting history, but facilities were average and signage was unclear.",3,2026-02-27,neutral,synthetic,en
+"Great guide and well explained traditions. Highly recommended.",5,2026-03-01,positive,synthetic,en
+"Some visitors had bad behavior and it ruined the experience.",2,2026-03-03,negative,synthetic,en
+"Beautiful and unique, but the parking area is small.",4,2026-03-05,positive,synthetic,en
+"Commercialization is too much: ticket booths and upsells everywhere.",2,2026-03-07,negative,synthetic,en
+"Good cultural tour, but too crowded at noon.",3,2026-03-09,neutral,synthetic,en
+"Tempat ini hebat untuk wisata edukasi, tetapi tolong jaga sopan santun.",4,2026-03-11,positive,synthetic,id
+"Saya suka suasananya, namun beberapa spot terlihat rusak dan perlu perawatan.",3,2026-03-13,neutral,synthetic,id
+"Kurang jelas aturan berkunjung, akibatnya banyak yang tidak sopan.",2,2026-03-15,negative,synthetic,id
+"Indah, unik, dan terasa sakral. Saya belajar banyak tentang budaya.",5,2026-03-17,positive,synthetic,id
+"Bersih dan tertata, petugas juga ramah saat menjawab pertanyaan.",5,2026-03-19,positive,synthetic,id
+"Terlalu ramai di akhir pekan, jadi pengalaman kurang nyaman.",2,2026-03-21,negative,synthetic,id
+"Harga tidak murah, tapi masih sepadan kalau datang saat tidak ramai.",3,2026-03-23,neutral,synthetic,id
+"Saya kecewa karena toilet kotor dan fasilitas kurang.",2,2026-03-25,negative,synthetic,id
+"Sangat menarik, budaya Toraja benar-benar terasa. Recommended!",5,2026-03-27,positive,synthetic,id
+"The site is sacred and meaningful; please respect local traditions.",5,2026-03-29,positive,synthetic,en
+"Not worth it for the ticket price; facilities are poor.",2,2026-03-31,negative,synthetic,en
+"Nice place, but the crowd makes it hard to enjoy.",3,2026-04-02,neutral,synthetic,en
+"I loved the cultural value and the guide's explanations.",5,2026-04-04,positive,synthetic,en
+"Bad attitude from a few groups; staff tried to help.",3,2026-04-06,neutral,synthetic,en
+"The traditions are unique and the scenery is beautiful.",5,2026-04-08,positive,synthetic,en
+"Too commercial for a sacred place; feels wrong.",2,2026-04-10,negative,synthetic,en
+"A bit crowded, but still a great cultural visit.",4,2026-04-12,positive,synthetic,en
+"Banyak yang tidak hormat saat berkunjung, perlu edukasi etika.",2,2026-04-14,negative,synthetic,id
+"Saya suka tempatnya, tapi papan informasi kurang dan beberapa buram.",3,2026-04-16,neutral,synthetic,id
+"Luar biasa! Budayanya kuat, tempatnya indah, dan suasananya nyaman.",5,2026-04-18,positive,synthetic,id
